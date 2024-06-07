@@ -6,13 +6,6 @@ const providerOptions = {
       infuraId: "YOUR_INFURA_ID", // required
     },
   },
-  coinbasewallet: {
-    package: window.CoinbaseWalletSDK, // required
-    options: {
-      appName: "Web3 Modal Demo", // optional
-      infuraId: "YOUR_INFURA_ID", // required
-    },
-  },
   injected: {
     display: {
       name: "Browser Wallet",

@@ -60,4 +60,5 @@ infuraId: "YOUR_INFURA_ID", // Replace with your Infura ID
 
 6.	Once connected, your account information will be displayed in the console.
 
+<img width="899" alt="SCR-20240607-ijrl" src="https://github.com/CagatayAkkas/Multiple-Wallet-Connection/assets/108520279/1a58daa1-3e63-46e0-97d4-532888a5d40d">
 
